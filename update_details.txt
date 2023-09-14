@@ -1,0 +1,15 @@
+Youtube Video Downloader
+version : 1.1.0
+
+___________________________________________________________________________________
+
+testing option 
+
+        * This is readme file 
+        * dowload this 
+
+
+
+___________________________________________________________________________________
+
+Copyright 2023 | Jb Softbox | python
